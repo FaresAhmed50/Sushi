@@ -37,7 +37,7 @@
 .header__menu , .header__menu-mobil {
 
     display: flex;
-    flex: 1.2;
+    flex: 1.236;
     padding: 20px;
     align-items: center;
     justify-content: flex-end;
@@ -67,4 +67,9 @@
     gap: 20px;
 
     position: relative;
+}
+
+.header__menu li:hover{
+
+    color: var(--primary-color);
 }
