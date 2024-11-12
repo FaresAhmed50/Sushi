@@ -33,10 +33,11 @@ To run SushiMan locally, follow these steps:
 ### Clone the Repository:
 ```bash
 git clone https://github.com/your-username/SushiMan.git
+
 Navigate to Project Directory:
 cd SushiMan
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 SushiMan/
 ├── index.html            # Main HTML structure
