@@ -27,6 +27,11 @@ Check out the live demo of SushiMan [here](https://sushi-rbw0bw0na-fares-project
 - **Custom Assets**: Original images and icons to match the theme.
 
 
+### Clone the Repository:
+```bash
+git clone https://github.com/your-username/SushiMan.git
+cd SushiMan```
+
 ## 📂 Project Structure
 
 ```
