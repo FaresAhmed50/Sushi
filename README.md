@@ -26,16 +26,6 @@ Check out the live demo of SushiMan [here](https://sushi-rbw0bw0na-fares-project
 - **AOS Library**: Adds animations on scroll.
 - **Custom Assets**: Original images and icons to match the theme.
 
-## 🚀 Getting Started
-
-To run SushiMan locally, follow these steps:
-
-### Clone the Repository:
-```bash
-git clone https://github.com/your-username/SushiMan.git
-
-Navigate to Project Directory:
-cd SushiMan
 
 ## 📂 Project Structure
 
