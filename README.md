@@ -1,10 +1,13 @@
-SushiMan 🍣
+#SushiMan 🍣
+
 SushiMan is a stylish and responsive Japanese food ordering website, designed to bring the rich and authentic experience of Japanese cuisine to your screen. Explore popular sushi dishes, learn about Japanese culinary traditions, and place an order—all in one visually appealing platform.
 
-🌐 Live Demo
+#🌐 Live Demo
+
 Check out the live demo of SushiMan here.
 
-📋 Features
+#📋 Features
+
 Dynamic Navigation: Smooth navigation links for easy access to various sections like Menu, Food, Services, and About Us.
 Responsive Design: Fully responsive layout compatible with mobile, tablet, and desktop devices.
 Popular Menu: Showcases popular Japanese dishes with ratings and prices.
@@ -12,19 +15,23 @@ About Us Section: Insights into the mission and values, emphasizing Japanese hos
 Trending Section: Highlights popular sushi and drink options with engaging visuals.
 Newsletter Signup: Subscription form to stay updated on the latest offers.
 AOS Animations: Eye-catching animations for an engaging user experience.
-🖼️ Screenshots
+
+#🖼️ Screenshots
 
 Screenshot of SushiMan showcasing the header and hero sections.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
+
 HTML5 & CSS3: For structure and styling.
 JavaScript: Enhances interactivity and functionality.
 AOS Library: Adds animations on scroll.
 Custom Assets: Original images and icons to match the theme.
-🚀 Getting Started
+
+#🚀 Getting Started.
+
 To run SushiMan locally, follow these steps:
 
-Clone the Repository:
+#Clone the Repository:
 
 bash
 Copy code
@@ -36,7 +43,7 @@ Copy code
 cd SushiMan
 Open in Browser: Simply open the index.html file in your web browser.
 
-📂 Project Structure
+#📂 Project Structure
 bash
 Copy code
 SushiMan/
@@ -57,5 +64,5 @@ SushiMan/
 │   └── assets/           # Image and icon assets
 └── README.md             # Project documentation
 
-📜 License
+#📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
