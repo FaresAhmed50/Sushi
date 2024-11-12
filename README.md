@@ -15,10 +15,6 @@ Check out the live demo of SushiMan [here](https://sushi-rbw0bw0na-fares-project
 - **Newsletter Signup**: Subscription form to stay updated on the latest offers.
 - **AOS Animations**: Eye-catching animations for an engaging user experience.
 
-## 🖼️ Screenshots
-![SushiMan Demo](link-to-screenshot-image)  
-*Screenshot of SushiMan showcasing the header and hero sections.*
-
 ## 🛠️ Technologies Used
 
 - **HTML5 & CSS3**: For structure and styling.
