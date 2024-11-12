@@ -29,7 +29,7 @@ Check out the live demo of SushiMan [here](https://sushi-rbw0bw0na-fares-project
 
 ## 📂 Project Structure
 
-
+```
 SushiMan/
 ├── index.html            # Main HTML structure
 ├── css/
@@ -47,4 +47,4 @@ SushiMan/
 ├── sushi_assets/
 │   └── assets/           # Image and icon assets
 └── README.md             # Project documentation
-
+```
